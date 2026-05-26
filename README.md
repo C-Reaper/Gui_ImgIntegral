@@ -93,23 +93,6 @@ mingw32-make -f Makefile.windows exe
 
 ---
 
-## Running the Project
-
-```bash
-
-```
-
-Example output:
-
-```text
-[INFO] Image loaded
-[INFO] Integral image generated
-[INFO] Object detected
-[INFO] Tracking completed
-```
-
----
-
 ## Integral Image Example
 
 An integral image stores, at each position, the sum of all pixels located above and to the left of the current pixel.
